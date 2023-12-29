@@ -1,2 +1,2 @@
 # flask-credit-api-poc
-A Flask Credit API Server POC
+A Flask User API Key Credit Server POC
